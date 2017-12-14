@@ -1,1 +1,1 @@
-# kub-test
+# kube-test
